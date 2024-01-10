@@ -10,10 +10,7 @@ No evaluation script is provided since the trained policy was directly tested in
 
 ## Results
 
-
-https://github.com/AnonymousSumbission/andps_code/assets/156198603/387122e4-dd93-4d70-a456-44216e3c3d66
-
-
+https://github.com/AnonymousSumbission/andps_code/assets/156198603/e0ba5f8a-48ad-4b9a-8b40-418c74c0a2b6
 
 
 | Replication | Percentage of objects inside the bowl |
