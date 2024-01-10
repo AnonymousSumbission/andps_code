@@ -2,7 +2,7 @@
 
 Paper submitted to the Special Issue on "Learning and Intelligent Optimization" of the ACM Transactions on Evolutionary Learning and Optimization (TELO) journal.
 
-![Screenshot from 2024-01-10 15-45-20](https://github-production-user-asset-6210df.s3.amazonaws.com/50770773/295603651-78e57186-d31e-46d6-8027-3f3df28a995e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240110%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240110T145707Z&X-Amz-Expires=300&X-Amz-Signature=b1c9b8aacf2d0a7770798d922484feb46323bcb83d16ee859c91d859a8963798&X-Amz-SignedHeaders=host&actor_id=50770773&key_id=0&repo_id=539929370)
+![general_pipeline](media/general_pipeline.png)
 
 Abstract
 ---------------
